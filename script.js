@@ -1,4 +1,4 @@
-const socket = io("https://omegle-9.onrender.com"); // change to Render backend URL
+const socket = io("https://YOUR-BACKEND-URL.onrender.com"); // change to Render backend URL
 let peer;
 let localStream;
 
